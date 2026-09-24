@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Selisih Zona & Promo Sabar",
+  "description": "Aplikasi perhitungan selisih ongkir dan harga zona dari total transaksi dengan tiering Zona 2-5, fitur Promo Sabar, pencatatan otomatis, dan monitoring riwayat harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
